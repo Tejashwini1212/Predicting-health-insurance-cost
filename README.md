@@ -43,9 +43,4 @@ Dataset source: [Kaggle: Medical Cost Personal Dataset](https://www.kaggle.com/d
 
 
 
-## Installation
-Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/health-insurance-prediction.git
-cd health-insurance-prediction
